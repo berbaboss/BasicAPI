@@ -3,14 +3,14 @@
         "title": "Bullish Divergence",
         "subtitle": "บลูลิช",
         "image_url": "https://images.unsplash.com/photo-1439434768192-c60615c1b3c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-        "image_detail":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forex.co.th%2Fbullish-bearish-divergence%2F&psig=AOvVaw1ILEbNBCgTallzbH_aATf_&ust=1630506069523000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNCy6su62_ICFQAAAAAdAAAAABAJ",
+        "image_detail":"https://raw.githubusercontent.com/berbaboss/BasicAPI/main/bull.png",
         "detail":"Bullish Divergence ใช้เพื่อแลกเปลี่ยนการเปลี่ยนแปลงในทิศทางจากการเคลื่อนที่ลงไปสู่การเคลื่อนที่ขึ้น เกิดขึ้นเมื่อวัฏจักรของราคาสร้างจุดต่ำสุดที่ต่ำลงและในเวลาเดียวกันตัวบ่งชี้ทางเทคนิคกำลังทำระดับต่ำมาก โดยพื้นฐานแล้วตัวบ่งชี้ไม่ได้เป็นไปตามราคาที่ลดลงซึ่งบ่งชี้ว่าการเคลื่อนตัวที่ต่ำลงกำลังอ่อนตัวลงและสูญเสียโมเมนตัมส่งผลให้อาจมีการขยับขึ้น"
     },
     {
         "title": "Bearish",
         "subtitle": "แบรริช",
         "image_url": "https://images.unsplash.com/photo-1570937942377-08f9705996f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-        "image_detail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forex.co.th%2Fbullish-bearish-divergence%2F&psig=AOvVaw1ILEbNBCgTallzbH_aATf_&ust=1630506069523000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNCy6su62_ICFQAAAAAdAAAAABAO",
+        "image_detail": "https://raw.githubusercontent.com/berbaboss/BasicAPI/main/bear.png",
         "detail":"Bearish Divergence ใช้เพื่อแลกเปลี่ยนการเปลี่ยนแปลงในทิศทางจากการเคลื่อนที่ขึ้นไปสู่การเคลื่อนที่ลง เกิดขึ้นเมื่อวัฏจักรของราคาสร้างจุดสูงสุดที่สูงขึ้นและในเวลาเดียวกัน Divergence Indicator กำลังทำจุดสูงสุดที่ต่ำกว่า โดยพื้นฐานแล้วตัวบ่งชี้ไม่ได้ติดตามราคาขึ้นโดยบอกว่าการขยับที่สูงขึ้นนั้นอ่อนตัวลงและสูญเสียโมเมนตัมส่งผลให้การเคลื่อนไหวต่ำลง"
     },
     {
